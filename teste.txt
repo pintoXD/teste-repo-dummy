@@ -1,9 +1,15 @@
-sdfg
-dsfg
-dsfg
-dsfg
-dsfgdgsf
-sadkjhfaskjldfhasdkfj
-asdfasdfasdf
-asdfasdfasdf
-asdfsadf2345234523542345625634
+  git init .
+  git branch
+  git branch -m main
+  git branch
+  git config user.name "name"
+  git config user.email "email"
+  git status
+  git add teste.txt
+  git status
+  git commit -m "This is my first commit"
+  git commit -m "second commit"
+  git commit -m "second commit"
+  git add .
+  git status
+  git commit -m "added new line"
